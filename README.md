@@ -2,6 +2,9 @@
 
 Este é um projeto de **análise exploratória** do churn de clientes de um banco. O objetivo principal é identificar **insights** e **fatores** que contribuam para a perda de clientes, com o intuito de entender melhor o comportamento deles.
 
+### 🚀 Status do Projeto  
+![Status](https://img.shields.io/badge/Status-Em%20Andamento-yellow)
+
 ### :book: **Dataset**
 O dataset utilizado para este projeto pode ser encontrado no Kaggle:
 [Bank Customer Churn - Kaggle Dataset](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn)
