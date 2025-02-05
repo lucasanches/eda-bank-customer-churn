@@ -17,4 +17,4 @@ No futuro, este projeto será expandido com a implementação de **modelos predi
 ### :question: **Dúvidas ou Contribuições?**
 Se você tiver alguma dúvida ou quiser fazer uma contribuição, entre em contato comigo pelo **LinkedIn**:
   
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png)](https://www.linkedin.com/in/lucas-a-sanches/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-a-sanches/)
