@@ -14,7 +14,7 @@ A análise será realizada utilizando **estatística** e **Python**, buscando pa
 
 ### :bulb: **Tecnologias Utilizadas**
 - **Python**: para análise e visualização de dados.
-- **Bibliotecas**: Pandas, NumPy, Matplotlib.
+- **Bibliotecas**: Pandas, NumPy, Matplotlib, Seaborn.
 
 ### :thought_balloon: **Futuras etapas**
 No futuro, este projeto será expandido com a implementação de **modelos preditivos** para prever o churn de clientes, utilizando técnicas de aprendizado de máquina.
